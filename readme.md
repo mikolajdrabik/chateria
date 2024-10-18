@@ -1,1 +1,1 @@
-# ropozytorium do zadania chateria
+# repozytorium do zadania chateria
